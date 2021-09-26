@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeitorArquivoRetorno", "LeitorArquivoRetorno\LeitorArquivoRetorno.csproj", "{4481BFC1-8B9A-486A-B11B-B8931894F350}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRotinaBoleto", "..\ApiRotinaBoleto\ApiRotinaBoleto.csproj", "{70CD3110-E230-4672-8F72-55CF76EA84DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4481BFC1-8B9A-486A-B11B-B8931894F350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4481BFC1-8B9A-486A-B11B-B8931894F350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4481BFC1-8B9A-486A-B11B-B8931894F350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4481BFC1-8B9A-486A-B11B-B8931894F350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CD3110-E230-4672-8F72-55CF76EA84DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CD3110-E230-4672-8F72-55CF76EA84DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CD3110-E230-4672-8F72-55CF76EA84DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CD3110-E230-4672-8F72-55CF76EA84DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2BD5CF-1FE1-40D4-9F46-6A24D7067398}
+	EndGlobalSection
+EndGlobal
