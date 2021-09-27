@@ -26,6 +26,9 @@ Se atentar que há uma <strong>PROCEDURE</strong> responsável pela inclusão da
 :white_check_mark: Linguagem: C# </br>
 :white_check_mark: Banco de Dados: SQL Server </br>
 
+<h2>Conceitos Usados</h2>
+Modelagem DDD
+
 <h2> Desenvolvedor :technologist:</h2>
 Elto Brito
 Linkedin: (https://www.linkedin.com/in/elton-cunha-87631056)
